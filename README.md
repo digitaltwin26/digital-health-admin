@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Human Digital Twin — Admin Dashboard
 
 Admin dashboard (ReactJS + Vite) untuk **Human Digital Twin**. Dokumen ini mencakup versi
@@ -163,3 +164,7 @@ sendiri), `pages/PeriodicChecks/*`, `pages/HeartModel/*` (berdiri sendiri),
 `components/common/CrudPageShell.jsx`, `components/common/DataTable.jsx` (tidak
 lagi dipakai). Semua fungsinya sudah dipindah/diganti oleh struktur nested di
 atas.
+=======
+# digital-health-admin
+Kodingan untuk Mobile Web Dashboard Admin
+>>>>>>> 9275b20d0b75f9060bb8b3359289f969328648f6
